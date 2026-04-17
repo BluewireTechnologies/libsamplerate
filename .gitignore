@@ -65,9 +65,15 @@ compile_commands.json
 CTestTestfile.cmake
 CMakeSettings.json
 
-/*[Bb]uild*/
-
 /.vscode/
 /.vs/
 /out/
 
+/build/.vs
+/build/**/*.tlog
+/build/**/*.obj
+/build/**/*.pdb
+/build/**/*.exe
+/build/**/*.recipe
+/build/**/*.js
+/build/**/*.ilk
